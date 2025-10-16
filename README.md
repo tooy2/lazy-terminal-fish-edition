@@ -1,5 +1,5 @@
 # The Lazy Terminal — Fish Edition
-
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![Fish Shell](https://img.shields.io/badge/shell-fish-00A0E6?logo=fish)
 ![eza](https://img.shields.io/badge/tool-eza-7C3AED)
 ![Arch Linux](https://img.shields.io/badge/support-Arch-blue?logo=arch-linux)
@@ -11,7 +11,8 @@ The Lazy Terminal — Fish Edition is a portable Fish shell setup focused on spe
 ## Install
 
 ```bash
-# clone your fork/repo, then:
+# clone the repo or install it zip
+git clone https://github.com/tooy2/lazy-terminal-fish-edition.git
 cd lazy-terminal-fish-edition
 ./install.sh              # non-destructive install
 # or
@@ -42,3 +43,5 @@ If not available, it will attempt to build `eza` via Cargo (installs rustup if n
 
 ## Uninstall
 Remove the copied files from `~/.config/fish/functions/` and optionally restore the backed up `config.fish`.
+
+
