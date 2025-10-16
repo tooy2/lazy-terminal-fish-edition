@@ -24,8 +24,6 @@ After install, start a new Fish session. Optional: make Fish default shell: `chs
 ## Usage
 - cdd: list directories with numbers; then use `cd 1`, `cd 2`, etc. to jump.
 - ls: shows icons via eza. Variants: `ll` (long), `la` (all), `lt`/`lta` (tree).
-- pacman: `-s` acts like `-S` and auto-sudo when installing. Example: `pacman -s htop`.
-- yay: `-s` acts like `-S`. Shortcut: `y -S pkg`.
 
 ## What gets installed
 - Functions: cdd, cd, ls, ll, la, lt, lta, pacman, yay, y
