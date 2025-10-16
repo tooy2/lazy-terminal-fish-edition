@@ -18,7 +18,8 @@ cd lazy-terminal-fish-edition
 ./install.sh --overwrite  # overwrite existing files (backs up with numbered suffixes)
 ```
 
-After install, start a new Fish session. Optional: make Fish default shell: `chsh -s /usr/bin/fish`.
+After install, make sure you have a nerd font like jetbrains-mono-nerd or any other nerd font but i recommend to use jetbrains-mono-nerd font because the icons size match the font size 
+then ,start a new Fish session. Optional: make Fish default shell: `chsh -s /usr/bin/fish`.
 
 ## What gets installed
 - Functions: cdd, cd, ls, ll, la, lt, lta.
