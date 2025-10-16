@@ -34,3 +34,6 @@ If not available, it will attempt to build `eza` via Cargo (installs rustup if n
 
 ## Uninstall
 Remove the copied files from `~/.config/fish/functions/` and optionally restore the backed up `config.fish`.
+## License
+
+This project is licensed under the terms of the [Apache License 2.0](LICENSE).
